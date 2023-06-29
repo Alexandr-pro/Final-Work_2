@@ -1,0 +1,10 @@
+ID:3 | tady | Chance: 4.0
+ID:3 | tady | Chance: 4.0
+ID:1 | ball | Chance: 2.0
+ID:2 | car | Chance: 3.0
+ID:2 | car | Chance: 3.0
+ID:1 | doll | Chance: 2.0
+ID:4 | train | Chance: 1.0
+ID:2 | swing | Chance: 3.0
+ID:3 | tady | Chance: 4.0
+ID:4 | train | Chance: 1.0
